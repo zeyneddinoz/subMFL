@@ -10,6 +10,23 @@ Euro-Par Conference - RAW 2023: 2nd Workshop on Resource Awareness of Systems an
 
 ## Dependencies:
 
+{"flwr": "0.19.0", 
+"torch": "1.13.1+cu117", 
+"torchvision": "0.14.1+cu117", 
+"numpy": "1.24.1", 
+"pandas": "1.5.3", 
+"json": "2.0.9", 
+"matplotlib": "3.6.3"}
+
+For flower library firstly install:
+
+sudo pip install -U flwr["simulation"]
+
+Then:
+
+sudo pip install -U flwr==0.19.0
+
+
 ## Usage:
 
 ### Contact:
