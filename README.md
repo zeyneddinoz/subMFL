@@ -30,6 +30,10 @@ sudo pip install -U flwr==0.19.0
 
 * Click on the MNIST or FMNIST folders and run the juypter notebooks files in them separately. The required libraries will be installed automatically. 
 
+Note: Since for each experiment dataset is distributed randomly, the outputs may not be exactly the same as it was in the paper. The main point needed to be focused on is despite preserved good metrics how participation can be increased by generating a list of submodels, while the pruning stage is completely on the server side without the need for any data instance. 
+
+Besides, the main reason behind potential accuracy improvement on sparsed models is actually the over-parameterised of the dense model causes lesser performance. 
+
 For feedback or more information, please do not hesitate to contact me.
 
 ### Contact:
