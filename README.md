@@ -18,7 +18,7 @@ Euro-Par: 29th International European Conference on Parallel and Distributed Com
 "json": "2.0.9", 
 "matplotlib": "3.6.3"}
 
-For flower library firstly install:
+For the flower library first install:
 
 sudo pip install -U flwr["simulation"]
 
@@ -28,6 +28,10 @@ sudo pip install -U flwr==0.19.0
 
 
 ## Usage:
+
+Click on the MNIST or FMNIST folders and run the juypter notebooks files in them separately. The required libraries will be installed automatically. 
+
+For feedback or more information, please do not hesitate to contact me.
 
 ### Contact:
 * Zeyneddin Oz: zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
