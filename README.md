@@ -1,6 +1,6 @@
 # subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment
 
-* This repository contains the Flower and PyTorch official implementation for the "_subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment_
+* This repository contains the [Flower](https://flower.dev/) and [PyTorch](https://pytorch.org/) official implementation for the "_subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment_
 " paper. 
 
 * __The authors:__ Zeyneddin Oz, Ceylan Soygul Oz, Abdollah Malekjafarian, Nima Afraz, and Fatemeh Golpayegani.
