@@ -35,3 +35,5 @@ For feedback or more information, please do not hesitate to contact me.
 
 ### Contact:
 * Zeyneddin Oz: zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
+
+Stay with science!
