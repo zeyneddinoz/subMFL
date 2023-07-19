@@ -30,9 +30,7 @@ sudo pip install -U flwr==0.19.0
 
 * Run the juypter notebooks files separately in different folders. The required libraries will be installed automatically. 
 
-__Note:__ Due to some random behaviours in experiments such as the distribution of datasets, the outputs may not be exactly the same as it was in the paper. The main point needed to be focused on is despite preserved good metrics how participation can be increased by generating a list of submodels, while the pruning stage is completely on the server side without the need for any data instance. Please read the research paper for more detail.
-
-Besides, the main reason behind potential accuracy improvement on sparsed models is actually the over-parameterised of the dense model causes lesser performance. 
+__Note:__ Due to some random behaviours in experiments such as the distribution of datasets, the outputs may not be exactly the same as it was in the paper. The main point needed to be focused on is despite preserved good metrics how participation can be increased by generating a list of submodels, while the pruning stage is completely on the server side without the need for any data instance. Besides, the main reason behind potential accuracy improvement on sparsed models is actually the over-parameterised of the dense model causes lesser performance. For more detail, please read the research paper.
 
 For feedback or more information, please do not hesitate to contact me.
 
