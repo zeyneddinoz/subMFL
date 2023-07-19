@@ -19,11 +19,11 @@
 
 For the flower library first install:
 
-'sudo pip install -U flwr["simulation"]'
+sudo pip install -U flwr["simulation"]
 
 Then:
 
-'sudo pip install -U flwr==0.19.0'
+sudo pip install -U flwr==0.19.0
 
 
 ## Usage:
@@ -40,3 +40,5 @@ For feedback or more information, please do not hesitate to contact me.
 * Zeyneddin Oz: zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
 
 __Stay with science!__
+
+[GitHub Pages](https://pages.github.com/)
