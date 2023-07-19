@@ -29,7 +29,7 @@ sudo pip install -U flwr==0.19.0
 
 ## Usage:
 
-Click on the MNIST or FMNIST folders and run the juypter notebooks files in them separately. The required libraries will be installed automatically. 
+* Click on the MNIST or FMNIST folders and run the juypter notebooks files in them separately. The required libraries will be installed automatically. 
 
 For feedback or more information, please do not hesitate to contact me.
 
