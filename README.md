@@ -1,12 +1,12 @@
 # subMFL
 subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment
 
-This repository contains the Flower and PyTorch official implementation for the "subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment
+* This repository contains the Flower and PyTorch official implementation for the "subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment
 " paper. 
 
-The authors: Zeyneddin Oz, Ceylan Soygul Oz, Abdollah Malekjafarian, Nima Afraz, and Fatemeh Golpayegani.
+* The authors: Zeyneddin Oz, Ceylan Soygul Oz, Abdollah Malekjafarian, Nima Afraz, and Fatemeh Golpayegani.
 
-Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society.
+* Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society.
 
 ## Dependencies:
 
