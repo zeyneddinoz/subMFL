@@ -37,8 +37,6 @@ Besides, the main reason behind potential accuracy improvement on sparsed models
 For feedback or more information, please do not hesitate to contact me.
 
 ### Contact:
-* Zeyneddin Oz: zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
+* [Zeyneddin Oz](https://www.linkedin.com/in/zeyneddin-oz/): zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
 
 __Stay with science!__
-
-[GitHub Pages](https://pages.github.com/)
