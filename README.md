@@ -3,7 +3,7 @@
 * This repository contains the [Flower](https://flower.dev/) and [PyTorch](https://pytorch.org/) official implementation for the "_subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment_
 " paper. 
 
-* __The authors:__ Zeyneddin Oz, Ceylan Soygul Oz, Abdollah Malekjafarian, Nima Afraz, and Fatemeh Golpayegani.
+* __The authors:__ [Zeyneddin Oz](https://www.linkedin.com/in/zeyneddin-oz/), [Ceylan Soygul Oz](https://www.linkedin.com/in/ceylansoygul/), Abdollah Malekjafarian, Nima Afraz, and Fatemeh Golpayegani.
 
 * _Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society._
 
@@ -35,6 +35,6 @@ __Note:__ Due to some random behaviours in experiments such as the distribution 
 For feedback or more information, please do not hesitate to contact me.
 
 ### Contact:
-* [Zeyneddin Oz](https://www.linkedin.com/in/zeyneddin-oz/): zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
+* Zeyneddin Oz: zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
 
 __Stay with science!__
