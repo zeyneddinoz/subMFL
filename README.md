@@ -35,7 +35,7 @@ __Note:__ Due to some random behaviours in experiments such as the distribution 
 For feedback or more information, please do not hesitate to contact me.
 
 ### Contact:
-* Zeyneddin Oz: zeyneddin.oz@ucdconnect.ie or zeyneddinoz@gmail.com
+* Zeyneddin Oz: zeyneddinoz@gmail.com
 
 
 __Stay with science!__
