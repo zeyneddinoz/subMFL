@@ -5,7 +5,7 @@
 
 * __The authors:__ [Zeyneddin Oz](https://www.linkedin.com/in/zeyneddin-oz/), [Ceylan Soygul Oz](https://www.linkedin.com/in/ceylansoygul/), [Abdollah Malekjafarian](https://www.linkedin.com/in/abdollah-malekjafarian-39854210/), [Nima Afraz](https://www.linkedin.com/in/nimaafraz/), and [Fatemeh Golpayegani](https://www.linkedin.com/in/fatemeh-golpayegani-07373937/).
 
-* [_Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society.](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_5)_
+* [_Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society._](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_5)
 
 ## Dependencies:
 
