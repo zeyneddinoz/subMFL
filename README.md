@@ -7,6 +7,9 @@
 
 * [_Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society._](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_5)
 
+
+[To watch the presentation:](https://www.youtube.com/watch?v=oXe3DuhHaq0&t=33s)
+
 ## Dependencies:
 
 {"flwr": "0.19.0", 
