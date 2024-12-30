@@ -8,7 +8,18 @@
 * [_Euro-Par: 29th International European Conference on Parallel and Distributed Computing - RAW 2023: 2nd Workshop on Resource Awareness of Systems and Society._](https://link.springer.com/chapter/10.1007/978-3-031-48803-0_5)
 
 
-[To watch the presentation:](https://www.youtube.com/watch?v=oXe3DuhHaq0&t=33s)
+[Please click here to watch the presentation](https://www.youtube.com/watch?v=oXe3DuhHaq0&t=33s)
+
+If you find it useful, you can cite this work as follows:
+
+@inproceedings{oz2023submfl,
+  title={subMFL: Compatible subModel Generation for Federated Learning in Device Heterogeneous Environment},
+  author={Oz, Zeyneddin and Soygul Oz, Ceylan and Malekjafarian, Abdollah and Afraz, Nima and Golpayegani, Fatemeh},
+  booktitle={European Conference on Parallel Processing},
+  pages={52--64},
+  year={2023},
+  organization={Springer}
+}
 
 ## Dependencies:
 
